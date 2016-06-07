@@ -1,5 +1,5 @@
 # A mnemonic card game for your amino acids
-This game concept has been submitted as a part of the Infomation+ conference. Interdisciplinary practices in information design and visualisation. Emily Carr University of Art and Design, Vancouver, Canada: June 16–18, 2016.
+This card game concept has been submitted as a part of the ![Information+](http://informationplusconference.com/) conference and exhibition. Interdisciplinary practices in information design and visualisation. Emily Carr University of Art and Design, Vancouver, Canada: June 16–18, 2016.
 
 ![Example result](https://4.bp.blogspot.com/-v4ucb2KaZhE/V04k5s-GThI/AAAAAAAAHxY/2505o3tit4Y4ufDeMvUA8g16PtQSao-NACLcB/s1600/github_fig.png "Amino Acids card game")
 
