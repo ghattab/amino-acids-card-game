@@ -1,7 +1,7 @@
 # A mnemonic card game for your amino acids
-This card game concept has been submitted as a part of the ![Information+](http://informationplusconference.com/) conference and exhibition. Interdisciplinary practices in information design and visualisation. Emily Carr University of Art and Design, Vancouver, Canada: June 16–18, 2016.
+This card game concept has been submitted as a part of the [Information+](http://informationplusconference.com/) conference and exhibition. Interdisciplinary practices in information design and visualisation. Emily Carr University of Art and Design, Vancouver, Canada: June 16–18, 2016.
 
-![Example result](https://4.bp.blogspot.com/-v4ucb2KaZhE/V04k5s-GThI/AAAAAAAAHxY/2505o3tit4Y4ufDeMvUA8g16PtQSao-NACLcB/s1600/github_fig.png "Amino Acids card game")
+![Example result](https://2.bp.blogspot.com/-cQwFUaPxEwE/V-XJ45xWZ1I/AAAAAAAAICw/-sbQ56iVRI0H__qs00XakPguoQsG2QG2wCLcB/s1600/fig_github.jpg "Amino Acids card game")
 
 >*Example playing cards included in the cards game (a) showcases the Histidine (H) amino acid with its respective formula, the category colour and symbol (left and top left of card) which is in this case the basic category (or positively charged). The lower part of the card presents three numerical values. The molar moss (g/mol), the Isolectric point or pI, the solubility at 20°C (g/L) and the Frequency in Verterbrates (%) are represented as the symbol of a scale, a lightning bolt, a flask (or erlenmeyer), and a pie chart, respectively. (b) is a category card, it explicates the amino acids properties pertaining to this category. (c) depicts the back design for each card. Logo adapted with the four categories colours, courtesy of Ed Harrison (CC). (d) lists briefly the important rules.*
 
