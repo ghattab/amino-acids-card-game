@@ -5,6 +5,12 @@ This card game concept has been submitted as a part of the [Information+](http:/
 
 >*Example playing cards included in the cards game (a) showcases the Histidine (H) amino acid with its respective formula, the category colour and symbol (left and top left of card) which is in this case the basic category (or positively charged). The lower part of the card presents three numerical values. The molar moss (g/mol), the Isolectric point or pI, the solubility at 20°C (g/L) and the Frequency in Verterbrates (%) are represented as the symbol of a scale, a lightning bolt, a flask (or erlenmeyer), and a pie chart, respectively. (b) is a category card, it explicates the amino acids properties pertaining to this category. (c) depicts the back design for each card. Logo adapted with the four categories colours, courtesy of Ed Harrison (CC). (d) lists briefly the important rules.*
 
+## Gameplay
+For two players, the rules can be formulated in a simple manner:
+We define a challenge scope as either all the player's cards, one category, or one amino acid.
+For a chosen challenge scope, one player challenges another on an attribute of a card from the cards the challenged player holds. The person with the highest attribute requests the card of the opposing player. This card is required to be the highest in hand. To win the game, a player must bank at least 9 cards by category (or colour). In the case of 2 players, banking 10 cards is a requirement.
+
+
 ## Materials
 All documents are print ready. Be sure to tick double sided in your printing preferences for the cards_print.pdf file.
 
