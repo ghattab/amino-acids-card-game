@@ -8,7 +8,7 @@ This card game concept has been submitted as a part of the [Information+](http:/
 ## Gameplay
 For two players, the rules can be formulated in a simple manner:
 We define a challenge scope as either all the player's cards, one category, or one amino acid.
-For a chosen challenge scope, one player challenges another on an attribute of a card from the cards the challenged player holds. The person with the highest attribute requests the card of the opposing player. This card is required to be the highest in hand. To win the game, a player must bank at least 9 cards by category (or colour). In the case of 2 players, banking 10 cards is a requirement.
+For a chosen challenge scope, one player challenges another on an attribute of a card from the cards the challenged player holds. The person with the highest attribute requests the card of the opposing player. This card is required to be the highest in hand. To win the game, a player must bank at least 9 cards by category (or colour). In the case of 2 players, banking 10 cards is a requirement. For the full rules, please refer to the manual.
 
 
 ## Materials
