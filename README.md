@@ -1,7 +1,7 @@
 # A mnemonic card game for your amino acids
 A card game based on the natural ability of the human brain to interpret visual stimuli. The cards translates complex molecular structures into visual formats that are both easier to assess and to understand. The result is a unique teaching tool that is not only subject-oriented, fun and engaging, but also helps students retain relevant information such as properties and formulas through perceptual memory.
 
-This card game concept has been submitted as a part of the [Information+](http://informationplusconference.com/) conference and exhibition. Interdisciplinary practices in information design and visualisation. Emily Carr University of Art and Design, Vancouver, Canada: June 16–18, 2016.
+This card game concept has been submitted and accepted as a part of the [Information+](http://informationplusconference.com/) conference and exhibition. Interdisciplinary practices in information design and visualisation. Emily Carr University of Art and Design, Vancouver, Canada: June 16–18, 2016.
 
 ![Example result](https://2.bp.blogspot.com/-cQwFUaPxEwE/V-XJ45xWZ1I/AAAAAAAAICw/-sbQ56iVRI0H__qs00XakPguoQsG2QG2wCLcB/s1600/fig_github.jpg "Amino Acids card game")
 
