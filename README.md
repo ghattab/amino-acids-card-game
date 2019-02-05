@@ -1,7 +1,7 @@
 # A mnemonic card game for your amino acids
 A card game based on the natural ability of the human brain to interpret visual stimuli. The cards translates complex molecular structures into visual formats that are both easier to assess and to understand. The result is a unique teaching tool that is not only subject-oriented, fun and engaging, but also helps students retain relevant information such as properties and formulas through perceptual memory.
 
-This card game concept has been submitted and accepted as a part of the [Information+](http://informationplusconference.com/) conference and exhibition. Interdisciplinary practices in information design and visualisation. Emily Carr University of Art and Design, Vancouver, Canada: June 16–18, 2016.
+This card game concept has been submitted and accepted as a part of the [Information+ conference](http://informationplusconference.com/2016) and [exhibition](http://informationplusconference.com/2016/#exhibition). Interdisciplinary practices in information design and visualisation. Emily Carr University of Art and Design, Vancouver, Canada: June 16–18, 2016.
 
 ![Example result](https://2.bp.blogspot.com/-cQwFUaPxEwE/V-XJ45xWZ1I/AAAAAAAAICw/-sbQ56iVRI0H__qs00XakPguoQsG2QG2wCLcB/s1600/fig_github.jpg "Amino Acids card game")
 
@@ -18,6 +18,20 @@ All documents are print ready. Be sure to tick double sided in your printing pre
 
 ## Sources
 Both the molecule logo (on back of each card) and play symbol designs (on Rules card) are courtesy of Ed Harrison (Creative Commons). All reported values are courtesy of Römpp's Chemistry Lexicon, (c) 2016 Georg Thieme Verlag KG.
+
+
+## Citation
+If you are inspired by or use any of the provided materials, please consider citing the following paper: Hattab, G., Brink, B.G., and Nattkemper, T.W., 2016. A mnemonic card game for your amino acids (Version v1.0). Zenodo.
+```
+@misc{hattab16aa,
+  Author="Hattab, G., Brink, B.G., and Nattkemper, T. W. ",
+  Title        = {A mnemonic card game for your amino acids},
+  Month        = Jun,
+  Year         = 2016,
+  Doi          = {10.5281/zenodo.55101},
+  Url          = {https://doi.org/10.5281/zenodo.55101}
+}
+```
 
 ## License
 ```
