@@ -21,7 +21,7 @@ Both the molecule logo (on back of each card) and play symbol designs (on Rules 
 
 
 ## Citation
-If you are inspired by or use any of the provided materials, please consider citing the following paper: Hattab, G., Brink, B.G., and Nattkemper, T.W., 2016. A mnemonic card game for your amino acids (Version v1.0). Zenodo.
+If you are inspired by or use any of the provided materials, please consider citing the following paper: _Hattab, G., Brink, B.G., and Nattkemper, T.W., 2016. A mnemonic card game for your amino acids (Version v1.0). Zenodo._
 ```
 @misc{hattab16aa,
   Author="Hattab, G., Brink, B.G., and Nattkemper, T. W. ",
